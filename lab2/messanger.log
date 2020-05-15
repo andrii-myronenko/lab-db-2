@@ -1,0 +1,6 @@
+INFO:root:2020-05-15 22:35:18.229105 Actor: Petro Action: log in 
+
+INFO:root:
+2020-05-15 22:41:09.998257 Event: User Petro sent spam message: "spam"
+INFO:root:2020-05-15 22:46:54.219976 Actor: Petro Action: sign out 
+
