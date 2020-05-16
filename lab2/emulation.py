@@ -1,6 +1,6 @@
-from random import randint
+import random
 from threading import Thread
-import main as user
+import user
 from faker import Faker
 import redis
 import atexit
@@ -15,16 +15,17 @@ class User(Thread):
         self.user_id = user.sign_in(conn, username)
 
     def run(self):
-        while True:
-            message_text = fake.sentence(nb_words=10, variable_nb_words=True, ext_word_list=None)
-            receiver = users[randint(0, users_count - 1)]
+        for x in range(6):
+            message_text = fake.sentence(nb_words=10, variable_nb_words=True, ext_word_list=None) if random.choice([True, False]) else 'spam'
+            receiver = users[random.randint(0, users_count - 1)]
+            print(f"Message {message_text} was sent to {receiver}");
             user.create_message(self.connection, message_text, self.user_id, receiver)
-
 
 def exit_handler():
     redis_conn = redis.Redis(charset="utf-8", decode_responses=True)
     online = redis_conn.smembers("online:")
-    redis_conn.srem("online:", list(online))
+    for x in online:
+        redis_conn.srem("online:", x)
     print("EXIT")
 
 
@@ -43,3 +44,4 @@ if __name__ == '__main__':
             users[x], users, users_count))
     for t in threads:
         t.start()
+

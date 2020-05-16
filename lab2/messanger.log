@@ -1,6 +1,100 @@
-INFO:root:2020-05-15 22:35:18.229105 Actor: Petro Action: log in 
+INFO:root:2020-05-17 00:26:14.262671 Actor: katiegarcia Action: register 
 
-INFO:root:
-2020-05-15 22:41:09.998257 Event: User Petro sent spam message: "spam"
-INFO:root:2020-05-15 22:46:54.219976 Actor: Petro Action: sign out 
+INFO:root:2020-05-17 00:26:14.263281 Actor: katiegarcia Action: log in 
+
+INFO:root:2020-05-17 00:26:14.265402 Actor: nicole51 Action: register 
+
+INFO:root:2020-05-17 00:26:14.265926 Actor: nicole51 Action: log in 
+
+INFO:root:2020-05-17 00:26:14.268094 Actor: yfox Action: register 
+
+INFO:root:2020-05-17 00:26:14.268624 Actor: yfox Action: log in 
+
+INFO:root:2020-05-17 00:26:14.270654 Actor: darrellbrown Action: register 
+
+INFO:root:2020-05-17 00:26:14.271165 Actor: darrellbrown Action: log in 
+
+INFO:root:2020-05-17 00:26:14.273292 Actor: nyates Action: register 
+
+INFO:root:2020-05-17 00:26:14.273812 Actor: nyates Action: log in 
+
+INFO:root:2020-05-17 00:27:09.870578 Actor: jesse92 Action: register 
+
+INFO:root:2020-05-17 00:27:09.871141 Actor: jesse92 Action: log in 
+
+INFO:root:2020-05-17 00:27:09.873626 Actor: kim66 Action: register 
+
+INFO:root:2020-05-17 00:27:09.874145 Actor: kim66 Action: log in 
+
+INFO:root:2020-05-17 00:27:09.876411 Actor: jaygreen Action: register 
+
+INFO:root:2020-05-17 00:27:09.876926 Actor: jaygreen Action: log in 
+
+INFO:root:2020-05-17 00:27:09.879287 Actor: zrodgers Action: register 
+
+INFO:root:2020-05-17 00:27:09.879840 Actor: zrodgers Action: log in 
+
+INFO:root:2020-05-17 00:27:09.882020 Actor: millerwhitney Action: register 
+
+INFO:root:2020-05-17 00:27:09.882530 Actor: millerwhitney Action: log in 
+
+INFO:root:2020-05-17 00:27:45.374114 Actor: thomas53 Action: register 
+
+INFO:root:2020-05-17 00:27:45.374665 Actor: thomas53 Action: log in 
+
+INFO:root:2020-05-17 00:27:45.376787 Actor: patriciabrown Action: register 
+
+INFO:root:2020-05-17 00:27:45.377314 Actor: patriciabrown Action: log in 
+
+INFO:root:2020-05-17 00:27:45.379375 Actor: josephthompson Action: register 
+
+INFO:root:2020-05-17 00:27:45.379922 Actor: josephthompson Action: log in 
+
+INFO:root:2020-05-17 00:27:45.381978 Actor: john15 Action: register 
+
+INFO:root:2020-05-17 00:27:45.382499 Actor: john15 Action: log in 
+
+INFO:root:2020-05-17 00:27:45.384601 Actor: ybrady Action: register 
+
+INFO:root:2020-05-17 00:27:45.385202 Actor: ybrady Action: log in 
+
+INFO:root:2020-05-17 00:27:50.247099 Actor: tmiller Action: register 
+
+INFO:root:2020-05-17 00:27:50.247611 Actor: tmiller Action: log in 
+
+INFO:root:2020-05-17 00:27:50.249506 Actor: sydney73 Action: register 
+
+INFO:root:2020-05-17 00:27:50.249983 Actor: sydney73 Action: log in 
+
+INFO:root:2020-05-17 00:27:50.251989 Actor: umcdowell Action: register 
+
+INFO:root:2020-05-17 00:27:50.252480 Actor: umcdowell Action: log in 
+
+INFO:root:2020-05-17 00:27:50.254435 Actor: lopezbenjamin Action: register 
+
+INFO:root:2020-05-17 00:27:50.254930 Actor: lopezbenjamin Action: log in 
+
+INFO:root:2020-05-17 00:27:50.256907 Actor: donna01 Action: register 
+
+INFO:root:2020-05-17 00:27:50.257358 Actor: donna01 Action: log in 
+
+INFO:root:2020-05-17 00:30:29.328018 Actor: tyler22 Action: register 
+
+INFO:root:2020-05-17 00:30:29.328685 Actor: tyler22 Action: log in 
+
+INFO:root:2020-05-17 00:30:29.331104 Actor: travis65 Action: register 
+
+INFO:root:2020-05-17 00:30:29.331729 Actor: travis65 Action: log in 
+
+INFO:root:2020-05-17 00:30:29.334058 Actor: rnelson Action: register 
+
+INFO:root:2020-05-17 00:30:29.334649 Actor: rnelson Action: log in 
+
+INFO:root:2020-05-17 00:30:29.337069 Actor: mgould Action: register 
+
+INFO:root:2020-05-17 00:30:29.337642 Actor: mgould Action: log in 
+
+INFO:root:2020-05-17 00:30:29.339948 Actor: danielle73 Action: register 
+
+INFO:root:2020-05-17 00:30:29.340520 Actor: danielle73 Action: log in 
 

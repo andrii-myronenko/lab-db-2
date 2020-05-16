@@ -1,5 +1,4 @@
 import redis
-from messagelistener import EventListener
 
 def admin_menu():
     print(10 * "*", "Admin menu", 10 * "*")
@@ -12,9 +11,6 @@ def admin_menu():
 def main():
     loop = True
     connection = redis.Redis(charset="utf-8", decode_responses=True)
-    listener = EventListener(connection)
-    listener.setDaemon(True)
-    listener.run()
 
     while loop:
         choice = admin_menu();
